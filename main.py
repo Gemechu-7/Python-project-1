@@ -1,4 +1,4 @@
-#list sorting by using while https://github.com/Gemechu-7/Python-project-1.git
+#list sorting by using while 
 numbers=[30, 4, 6, 77, 0, 9, 22, 11]
 count = 0
 numbers_list =[]
